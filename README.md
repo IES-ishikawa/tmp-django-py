@@ -1,6 +1,6 @@
 ## 概要
 
-このリポジトリは Spring Boot + Maven + PostgreSQL の環境を Visual Studio Code の Dev Container を使用して迅速にスタートアップするためのテンプレートリポジトリです。
+このリポジトリは Django(Python) + PostgreSQL の環境を Visual Studio Code の Dev Container を使用して迅速にスタートアップするためのテンプレートリポジトリです。
 
 ## 前提
 
